@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>AdvEntityFramework</id>
+    <version>0.1.0.1-a</version>
+    <title>AdvEntityFramework</title>
+    <authors>StanixGames</authors>
+    <owners>StanixGames</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Advanced interface&amp;T4-based entity framework for C#</description>
+    <copyright>Copyright ©  2018</copyright>
+    <dependencies />
+  </metadata>
+</package>
